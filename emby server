@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,cavps.eu.org,DIRECT
+IP-CIDR,95.211.168.246/32,兜底切换
+IP-CIDR,103.197.185.84/32,DIRECT
+USER-AGENT,"SenPlayer*",DIRECT
+DOMAIN-SUFFIX,emusica.91bp.us.kg,美国时延优选
+DOMAIN,api.mangacopy.com,香港时延优选
+DOMAIN,perfectgolf-prod-gameserver.perfectgolfdigital.com,美国时延优选
