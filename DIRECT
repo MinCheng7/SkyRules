@@ -3,5 +3,5 @@ DOMAIN-SUFFIX,cavps.eu.org
 IP-CIDR,103.197.185.84/32
 #Steam
 DOMAIN,steamcdn-a.akamaihd.net
-DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
