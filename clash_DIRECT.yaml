@@ -1,4 +1,4 @@
-#一分机场的直连域名
+# 一分机场的直连域名
 DOMAIN,safebrowsing.urlsec.qq.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,mzstatic.com
@@ -155,7 +155,7 @@ IP-CIDR,224.0.0.0/4
 IP-CIDR6,fe80::/10
 DOMAIN-SUFFIX,cn
 DOMAIN-KEYWORD,-cn
-#DNS请求
+# DNS请求
 IP-CIDR,162.159.36.1/32
 IP-CIDR,162.159.46.1/32
 IP-CIDR,117.50.22.22/32
