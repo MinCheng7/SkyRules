@@ -1,4 +1,19 @@
 payload:
+  # WeGame 和 英雄联盟 国服 直连
+  - DOMAIN-SUFFIX,qt.qq.com,DIRECT
+  - DOMAIN-SUFFIX,wegame.com.cn,DIRECT
+  - DOMAIN-SUFFIX,acgvideo.com,DIRECT
+  - DOMAIN-SUFFIX,bilibili.com,DIRECT
+  - DOMAIN-SUFFIX,riotgames.com,DIRECT
+  - DOMAIN-SUFFIX,game.qq.com,DIRECT
+  - DOMAIN-SUFFIX,lol.qq.com,DIRECT
+  - DOMAIN-SUFFIX,lolstatic.com,DIRECT
+  - DOMAIN-SUFFIX,gtimg.cn,DIRECT
+  - DOMAIN-SUFFIX,gtimg.com,DIRECT
+  - DOMAIN-SUFFIX,igamecj.com,DIRECT
+  - IP-CIDR,119.147.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,182.254.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,203.205.0.0/16,DIRECT,no-resolve
 # 一分机场的直连域名
   - DOMAIN,safebrowsing.urlsec.qq.com
   - DOMAIN,safebrowsing.googleapis.com
