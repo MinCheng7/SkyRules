@@ -1,0 +1,7 @@
+payload:
+  # 棕色尘埃2
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,bd2.pmang.cloud
+  - DOMAIN-SUFFIX,global.neonapi.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
