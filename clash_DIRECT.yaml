@@ -1,19 +1,19 @@
 payload:
   # WeGame 和 英雄联盟 国服 直连
-  - DOMAIN-SUFFIX,qt.qq.com,DIRECT
-  - DOMAIN-SUFFIX,wegame.com.cn,DIRECT
-  - DOMAIN-SUFFIX,acgvideo.com,DIRECT
-  - DOMAIN-SUFFIX,bilibili.com,DIRECT
-  - DOMAIN-SUFFIX,riotgames.com,DIRECT
-  - DOMAIN-SUFFIX,game.qq.com,DIRECT
-  - DOMAIN-SUFFIX,lol.qq.com,DIRECT
-  - DOMAIN-SUFFIX,lolstatic.com,DIRECT
-  - DOMAIN-SUFFIX,gtimg.cn,DIRECT
-  - DOMAIN-SUFFIX,gtimg.com,DIRECT
-  - DOMAIN-SUFFIX,igamecj.com,DIRECT
-  - IP-CIDR,119.147.0.0/16,DIRECT,no-resolve
-  - IP-CIDR,182.254.0.0/16,DIRECT,no-resolve
-  - IP-CIDR,203.205.0.0/16,DIRECT,no-resolve
+  - DOMAIN-SUFFIX,qt.qq.com
+  - DOMAIN-SUFFIX,wegame.com.cn
+  - DOMAIN-SUFFIX,acgvideo.com
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,riotgames.com
+  - DOMAIN-SUFFIX,game.qq.com
+  - DOMAIN-SUFFIX,lol.qq.com
+  - DOMAIN-SUFFIX,lolstatic.com
+  - DOMAIN-SUFFIX,gtimg.cn
+  - DOMAIN-SUFFIX,gtimg.com
+  - DOMAIN-SUFFIX,igamecj.com
+  - IP-CIDR,119.147.0.0/16
+  - IP-CIDR,182.254.0.0/16
+  - IP-CIDR,203.205.0.0/16
 # 一分机场的直连域名
   - DOMAIN,safebrowsing.urlsec.qq.com
   - DOMAIN,safebrowsing.googleapis.com
@@ -185,3 +185,4 @@ payload:
 # emby
   - DOMAIN-SUFFIX,cavps.eu.org
   - IP-CIDR,103.197.185.84/32
+
